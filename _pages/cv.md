@@ -15,5 +15,6 @@ Education
 
 Grants, Awards, and Scholarships
 ======
-* Stipended Graduate Assistantship for PhD program, Northeastern University. September 2025 - present.
+* Stipended Graduate Assistantship for PhD program, Northeastern University. September 2025 - present
+* NULab Seedling Grant, Northeastern University, May 2025 - present
 * Fulbright Foreign Student Scholar 2023-2025
