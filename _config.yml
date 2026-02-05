@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tayte M. Adderley"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Public Policy"
   location         : "Boston, Massachusetts"
   employer         : "Northeastern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "adderley.t@northeastern.edu" 
 
   # Academic websites
   academia         : # URL
