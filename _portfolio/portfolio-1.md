@@ -10,5 +10,5 @@ The goal of this model is to examine how many transfers between buses are necess
 This model consists of commuters who have origins and destinations. In the model, commuters utilize bus routes to get to their destination. These origin-destination pairs are randomly chosen. The model is built in NetLogo using the GIS extension. I use a landcover raster of New Providence, and a vector shapefile of the island's bus routes for agents to interact with. 
 
 <p align="center">
-  <img src="/images/Transit_Model_R2.png" alt="New Providence Transit Model">
+  <img src="images/Transit_Model.png" alt="New Providence Transit Model">
 </p>
