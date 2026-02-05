@@ -1,6 +1,6 @@
 ---
 title: "New Providence Transit Model"
-excerpt: "NetLogo Transportation Model <br/><img src='/images/500x300.png'>"
+excerpt: "NetLogo Transportation Model <br/><img src= 'images/Transit_Model_R2.png'>" 
 collection: portfolio
 ---
 New Providence's public transportation system is formal yet informal. The Road Traffic Act 1967 designed a system where private jitney operators compete with each other for fares. During my undergraduate career, I relied on this system heavily. I arrived where I need to but not without the occasional safety concerns. Drawing on those experiences, I have always been interested in designing a better system. This modelling effort is an attempt to understand how the system functions. 
