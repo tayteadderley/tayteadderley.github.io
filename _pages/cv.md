@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Public Policy, Northeastern University, 2025 - present
-* M.P.P in Public Policy, Northeastern University, 2025
-* Bachelors of Public Administration, University of The Bahamas, 2022
+* M.P.P in Public Policy, Northeastern University, September 2023 - May 2025
+* Bachelors of Public Administration, University of The Bahamas, September 2017 - 2022
 
 Grants, Awards, and Scholarships
 ======
